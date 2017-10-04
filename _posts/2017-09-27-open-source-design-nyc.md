@@ -6,7 +6,7 @@ categories: design meetup community
 eventDate: Wed, 27 Rep 2017
 location: New York
 time: 6:30pm - 8.30pm (EDT)
-status: upcoming
+status: past
 ---
 
 Dina, Jessica and Julien are calling Open Source Design enthusiasts living in NYC and around to join us for our first meetup. This will be an introduction meeting and we want to use it to define the direction and themes we want to explore in the future with this gathering.
